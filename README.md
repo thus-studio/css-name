@@ -77,6 +77,16 @@
   display: none !important;
   visibility: hidden !important;
 }
+/*响应式图片*/
+.img-responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+/*圆形图片*/
+.img-circle {
+  border-radius: 50%;
+}
 /* 块状元素水平居中 */
 .auto{margin-left:auto; margin-right:auto;}
 /* 基于display:table-cell的自适应布局 */
