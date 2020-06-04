@@ -1,11 +1,11 @@
-#css-name
+# css-name
 
->CSS 命名规范
+> CSS 命名规范
 
 
-##CSS class 命名方案
+## CSS class 命名方案
 
-###原子类
+### 原子类
 
 ```css
 /* font-style */
@@ -38,7 +38,7 @@
 .z{*zoom:1;}
 ```
 
-###工具类
+### 工具类
 
 ```css
 
@@ -113,7 +113,7 @@
 .disabled{color:#acacac!important; border-color:#acacac!important; text-shadow:1px 1px #fff!important; outline:0!important; cursor:default!important; pointer-events:none;}
 .disabled:hover{text-decoration:none!important;}
 ```
-###模块类
+### 模块类
 
 ```
 导航菜单：nav-menu
@@ -133,7 +133,7 @@
 ```
 
 
-###名称类
+### 名称类
 
 
 ```
@@ -176,7 +176,7 @@
 ```
 
 
-###CSS 文件命名
+### CSS 文件命名
 
 ```
 主要   master.css
